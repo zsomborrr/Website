@@ -1,0 +1,25 @@
+.row ul li{
+    font-size: 1.4rem;
+    color: rgb(255, 255, 255);
+    font-weight: 600;
+    padding-bottom: 10px;
+}
+
+#titlebreak {
+    border: 3px rgb(121, 66, 96) solid;
+    border-radius: 10px;
+}
+
+.darktext {
+    color: rgb(184, 147, 187);
+}
+
+#drpepper {
+    text-decoration: double underline 2px #b893bb;
+    color: #cea1c8;
+}
+
+#clickkk {
+    color: #cea1c8;
+    text-decoration: double underline 2px rgb(223, 208, 218);
+}
